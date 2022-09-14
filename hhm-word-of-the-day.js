@@ -34,7 +34,7 @@ textarray[10] = "Txt here";
 textarray[11] = "Txt here";
 textarray[12] = "Txt here";
 textarray[13] = "Txt here";
-textarray[14] = "Txt here";
+
 
 
 var d = new Date(); /*** create a date object for use ***/
