@@ -3,37 +3,24 @@ function chgDailyTxt()
 {
 
 var textarray = new Array();
-textarray[13] = "¡Hola! — Hello!";
-textarray[14] = "Buenos días = Good morning, Buenas tardes = Good afternoon, Buenas noches = Good evening";
-textarray[15] = "Txt here";
-textarray[16] = "Txt here";
-textarray[17] = "Txt here";
-textarray[18] = "Txt here";
-textarray[19] = "Txt here";
-textarray[20] = "Txt here";
-textarray[21] = "Txt here";
-textarray[22] = "Txt here";
-textarray[23] = "Txt here";
-textarray[24] = "Txt here";
-textarray[25] = "Txt here";
-textarray[26] = "Txt here";
-textarray[27] = "Txt here";
-textarray[28] = "Txt here";
-textarray[29] = "Txt here";
-textarray[30] = "Txt here";
-textarray[1] = "Txt here";
-textarray[2] = "Txt here";
-textarray[3] = "Txt here";
-textarray[4] = "Txt here";
-textarray[5] = "Txt here";
-textarray[6] = "Txt here";
-textarray[7] = "Txt here";
-textarray[8] = "Txt here";
-textarray[9] = "Txt here";
-textarray[10] = "Txt here";
-textarray[11] = "Txt here";
-textarray[12] = "Txt here";
-textarray[13] = "Txt here";
+textarray[14] = "Hispanic Heritage Month Word of the Day:<br> starts tomorrow!";
+textarray[15] = "¡Hola! — Hello!";
+textarray[16] = "Buenos días = Good morning <br>Buenas tardes = Good afternoon<br> Buenas noches = Good evening";
+textarray[17] = "¡Bienvenidos! / ¡Bienvenidas! - Welcome!";
+textarray[18] = "¡Gracias! — Thank you! <br> ¡Muchas gracias! — Thank you very much!";
+textarray[19] = "Por favor — Please (generally used at the end of a sentence)";
+textarray[20] = "¡De nada! — You're welcome!";
+textarray[21] = "¡Perdona! — Excuse me!<br>¡Disculpe! / ¡Discúlpeme!— Excuse me! (used to apologize in advance for being a bit of a bother)";
+textarray[22] = "¡Lo siento! — Sorry! (In case you make a mistake)";
+textarray[23] = "Salud = Bless you (after someone sneezes) or Cheers!";
+textarray[24] = "Hola, me llamo Juan = Hello, my name is John<br>Me llamo… = My name is…<br>¿Cómo te llamas? = What's your name?";
+textarray[25] = "Mucho gusto = Nice to meet you";
+textarray[26] = "¿Cómo estás? = How are you?<br>Estoy bien, gracias = I'm well thank you";
+textarray[27] = "¿Qué…? — What…?<br>¿Quién…? — Who…<br>?¿Cuándo…? — When…?<br>¿Cuál…? — Which…?<br>¿Cómo…? — How…?<br>Dónde…? — Where…?<br>¿Por qué…? — Why…?";
+textarray[28] = "Sí — Yes.<br>?No — No.<br>?Tal vez — Maybe.<br>?Nunca = Never<br>?A veces = Sometimes<br>?Claro = Of course<br>?¡Sin problema! — No problem!. Spanish people usually add “claro” at the end.<br>?No lo sé — I don’t know!";
+textarray[29] = "Disculpa. ¿Dónde está el baño? = Excuse me. Where is the bathroom?";
+textarray[30] = "¿Qué hora es? Or ¿Qué hora tienes? – What time is it?= What time is it?";
+
 
 
 
